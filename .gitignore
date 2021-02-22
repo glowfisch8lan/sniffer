@@ -1,0 +1,10 @@
+.idea
+
+# windows thumbnail cache
+Thumbs.db
+
+# composer itself is not needed
+composer.phar
+
+# Не грузить базу от сниффера
+db.json
